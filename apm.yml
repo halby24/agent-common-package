@@ -1,0 +1,12 @@
+name: halby-agent-common-package
+version: 0.1.0
+description: 公開用の自分用のスキルやエージェント設定
+author: HALBY
+
+dependencies:
+  apm: []
+  mcp: []
+
+includes: auto
+
+scripts: {}
