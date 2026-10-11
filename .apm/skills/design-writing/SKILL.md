@@ -1,6 +1,6 @@
 ---
 name: design-writing
-description: Design (設計文書)　を書くときに読む
+description: Design (設計文書)　を書くときに読む。設計のやり方の指針は`design-policy`を参照
 ---
 
 # Design文書の書き方
@@ -32,7 +32,6 @@ description: Design (設計文書)　を書くときに読む
 ### 基本
 
 - 担当責務について最初に明示する
-- 関心を分離する
 - 1枚は、一つのまとまった設計判断を無理なく読める長さにする
 
 ### 見やすさのための工夫
